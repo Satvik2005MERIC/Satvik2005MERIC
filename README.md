@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MERIC
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on programming event
+- 👋 Hi, I’m SATVIK
+- 👀 I’m a programming 
+- 🌱 I’m aslo a devloper
+- 💞️ Can collaborate on programming event
 
 <!---
  MERIC is a ✨ special ✨ repository 
